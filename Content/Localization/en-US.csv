@@ -1,0 +1,59 @@
+Key,Translation
+ItemName.AdamantiteSword,Adamantite Round Sword
+ItemName.Excalibur,Aetheria
+ItemName.TrueExcalibur,Excalibur
+ItemName.AdamantiteHelmet,Closed Adamantite Helmet
+ItemName.AdamantiteMask,Open Adamantite Helmet
+ItemName.AdamantiteHeadgear,Adamantite Hood
+ItemName.SquireShield,Countess' Shield
+ItemName.PixieShirt,Sailor Shirt
+ItemName.PixiePants,Sailor Pants
+ItemName.SlapHand,Moon Stick
+,
+ItemName.MythrilHalberd,Mythril Lucerne
+ProjectileName.MythrilHalberd,Mythril Lucerne
+ItemName.CopperHelmet,Copper Spanghelm
+ItemName.TinHelmet,Tin Spanghelm
+ItemName.IronHelmet,Iron Helm
+ItemName.AncientIronHelmet,Iron Coif
+ItemName.LeadHelmet,Lead Helm
+ItemName.TungstenHelmet,Tungsten Helm
+ItemName.AncientGoldHelmet,Gold Coif
+ItemName.GoldHelmet,Gold Greathelm
+ItemName.PlatinumHelmet,Platinum Greathelm
+ItemName.SilverChainmail,Silver Armor
+ItemName.SilverHelmet,Silver Helm
+ItemName.TitaniumSword,Titanium Greatsword
+ProjectileName.LilHarpy,Queen Rachel of Aetheria
+BuffDescription.LilHarpy,Now with stunted wing growth and 100% more clinginess!'
+BuffName.LilHarpy,Queen Rachel of Aetheria
+ItemName.BirdieRattle,Tiny Halberd
+ItemTooltip.BirdieRattle,"Summons the Queen of Storms and Ice
+'Thanks for supporting the texture pack!'"
+ItemName.TungstenChainmail,Tungsten Armor
+ItemName.GoldChainmail,Gold Platemail
+ItemName.PlatinumChainmail,Platinum Platemail
+ItemName.MoltenPickaxe,Molten THICCaxe
+ItemName.ChlorophyteHeadgear,Chlorophyte Coif
+ItemName.BeetleScaleMail,Beetle Platemail
+ItemName.BeetleShell,Beetle Shell
+ItemName.AmethystRobe,Amethyst Cloak
+ItemName.TopazRobe,Topaz Surcoat
+ItemName.EmeraldRobe,Emerald Platemail
+ItemName.RubyRobe,Ruby Chainmail
+ItemName.AmberRobe,Amber Chainmail
+ItemName.BladedGlove,The Pristine Blade
+ItemName.PrincessHat,Princess' Mask
+ItemName.PrincessDressNew,Princess' Thorny Dress
+ItemName.Gungnir,Glacial Crash
+ProjectileName.Gungnir,Glacial Crash
+ItemName.VenusMagnum,Glockodile
+ItemTooltip.VenusMagnum,"Shoots a powerful, high velocity bullet
+""If you say this is an alligator I will slap you""
+-Rachel"
+ItemName.SquireAltHead,Dragon's Crown
+ItemName.SquireAltPants,Flame-forged Plates
+ItemName.SquireAltShirt,Internal Flame
+ItemName.SquireGreatHelm,Countess' Armet
+ItemName.SquireGreaves,Countess' Greaves
+ItemName.SquirePlating,Countess' Platemail
